@@ -1,0 +1,239 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	font-family: 'Open Sans';
+	background: url(../images/login/bg_repeat.jpg) repeat;
+}
+
+@font-face {
+	font-family: 'Yikes';
+	src: url(../fonts/YIKES.TTF);
+}
+
+.wrap {
+	width: 100%;
+}
+.row {
+	margin: 0 auto;
+	width: 660px;
+}
+
+#outer {
+	background: url(../images/login/outer_bg_repeat.png) repeat-x;
+}
+
+#inner {
+	min-height: 800px;
+	background: url(../images/login/inner_bg_repeat.png) top center no-repeat;
+}
+
+/* Top Bar Styles */
+
+#top_bar {
+	height: 45px;
+	background: #191919;
+	text-align: center;
+}
+#top_bar .pad {
+	padding: 14px 0 0 0;
+}
+#top_bar  a {
+	padding: 5px 10px 5px 10px;
+	color: #858585;
+	font-size: 11px;
+	text-decoration: none;
+}
+#top_bar  a:hover {
+	color: #e6e6e6;
+	border-top: 1px solid #252525;
+	border-bottom: 1px solid #252525;
+}
+
+/* Header Styles */
+
+#header_container {
+	height: 136px;
+	background: url(../images/login/header_bg_repeat.png) repeat-x;
+}
+#header {
+	margin: 0 auto;
+	height: 136px;
+	width: 979px;
+	background: url(../images/login/header_bg.png) top center no-repeat;
+}
+#header .pad {
+	padding: 28px 0 0 0;
+}
+#header #logo {
+	margin: 0 auto;
+	width: 431px;
+	height: 77px;
+	background: url(../images/login/logo.png) no-repeat;
+}
+#header #logo span.slogan {
+	display: block;
+	padding-top: 76px;
+	text-align: right;
+	font-weight: bold;
+	font-size: 12px;
+	color: #606060;
+	text-transform: uppercase;
+}
+
+/* Main Styles */
+
+#main_container { }
+#main_container #players_online_box {
+	margin: 0 auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 181px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	color: #1b6374;
+	background: url(../images/login/players_online_box.png) no-repeat;
+}
+#main_container #content_box { }
+#main_container #content_box .login_panel { 
+	height: 72px;
+	background: url(../images/login/login_content_bg_01.png) no-repeat;
+}
+#main_container #content_box .login_panel .pad {
+	padding: 25px 0 0 193px;
+}
+#main_container #content_box .login_panel .login_input {
+	display: block;
+	float: left;
+	margin: 0 18px 0 0;
+	width: 173px;
+	height: 33px;
+	line-height: 33px;
+	text-indent: 11px;
+	color: #656565;
+	border: none;
+	outline: none;
+	font-size: 11px;
+	background: url(../images/login/login_input.png) no-repeat;
+}
+#main_container #content_box .login_panel .go_btn {
+	float: left;
+	cursor: pointer;
+	margin-top: -7px;
+	width: 44px;
+	height: 46px;
+	border: none;
+	outline: none;
+	background: url(../images/login/go_btn.png) top center no-repeat;
+}
+#main_container #content_box .login_panel .go_btn:hover {
+	background-position: bottom center;
+}
+#main_container #content_box .top_box { 
+	height: 39px;
+	background: url(../images/login/login_content_bg_02.png) no-repeat;
+}
+#main_container #content_box .middle_box {
+	line-height: 22px;
+	color: #8dccd8;
+	background: url(../images/login/login_content_bg_03.png) repeat-y;
+}
+#main_container #content_box .middle_box .pad {
+	padding: 5px 150px 5px 30px;
+}
+#main_container #content_box .middle_box h2 {
+	margin: 0;
+	font-size: 22px;
+	color: #e6e6e6;
+	line-height: 40px;
+	font-family: 'Yikes';
+	font-weight: normal;
+}
+#main_container a {
+   color: #8dccd8;
+   text-decoration: none;
+}
+#main_container a:hover {
+/*   color: #8dccd8;*/
+   text-decoration: underline;
+}
+#main_container #content_box .bottom_box {
+	height: 70px;
+	background: url(../images/login/login_content_bg_04.png) no-repeat;
+}
+#main_container #footer {
+	float: left;
+	color: #77a3c5;
+	line-height: 20px;
+	font-size: 11xp;
+}
+#main_container #footer span.title {
+	display: block;
+	font-family: 'Yikes';
+	font-size: 30px;
+	color: #e6e6e6;
+	line-height: 40px;
+}
+#main_container #footer #social { 
+	margin-top: 5px;
+}
+#main_container #footer #social a {
+	float: left;
+	margin: 0 10px 0 0;
+	display: block;
+	width: 23px;
+	height: 24px;
+}
+#main_container #footer #social a.facebook {
+	background: url(../images/login/facebook_ico.png) no-repeat;
+}
+#main_container #footer #social a.twitter {
+	background: url(../images/login/twitter_ico.png) no-repeat;
+}
+#main_container #footer #social a.rss {
+	background: url(../images/login/rss_ico.png) no-repeat;
+}
+#main_container #footer #social a:hover {
+	margin-top: 5px;
+}
+#main_container #character {
+	float: right;
+	margin: -200px -100px 0 0;
+	position: relative;
+	width: 218px;
+	height: 247px;
+	background: url(../images/login/pokemon_character.png) no-repeat;
+	z-index: 999;
+}
+
+.spacer {
+	clear: both;
+}
+
+.alert-box {
+    color: white;
+    font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 36px;
+}
+
+.alert-box span {
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.alert-box-error {
+    background:#2f363d url('../images/alertbox/error.png') no-repeat 10px 50%;
+}
+
+.alert-box-success {
+    background:#2f363d url('../images/alertbox/success.png') no-repeat 10px 50%;
+}
+
+.alert-box-warning {
+    background:#2f363d url('../images/alertbox/warning.png') no-repeat 10px 50%;
+}
+
+.alert-box-notice {
+    background:#2f363d url('../images/alertbox/notice.png') no-repeat 10px 50%;
+}

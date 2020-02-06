@@ -1,0 +1,27 @@
+[16-May-2015 16:03:43 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:03:43 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:03:43 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_pokemon.php on line 122
+[16-May-2015 16:03:43 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 195
+[16-May-2015 16:03:43 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_pokemon.php on line 122
+[16-May-2015 16:03:47 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:03:50 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:03:52 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:03:54 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:03:55 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_pokemon.php on line 122
+[16-May-2015 16:03:55 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_pokemon.php on line 122
+[16-May-2015 16:03:55 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_pokemon.php on line 122
+[16-May-2015 16:03:55 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_pokemon.php on line 122
+[16-May-2015 16:03:55 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_pokemon.php on line 122
+[16-May-2015 16:04:04 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:04:04 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_map.php on line 60
+[16-May-2015 16:04:04 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_map.php on line 60
+[16-May-2015 16:04:04 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_map.php on line 60
+[16-May-2015 16:04:39 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[16-May-2015 16:05:44 Canada/Central] PHP Fatal error:  Class 'finfo' not found in /home/rpgtesti/public_html/pokemon_game/proc_data/proc_user.php on line 174
+[17-May-2015 00:37:57] Connection failed: SQLSTATE[HY000] [2005] Unknown MySQL server host '127.5.91.130:3306' (1)
+[17-May-2015 00:38:00] Connection failed: SQLSTATE[HY000] [2005] Unknown MySQL server host '127.5.91.130:3306' (1)
+[17-May-2015 00:40:31] Connection failed: SQLSTATE[HY000] [2005] Unknown MySQL server host '127.5.91.130:3306' (1)
+[17-May-2015 00:40:32] Connection failed: SQLSTATE[HY000] [2005] Unknown MySQL server host '127.5.91.130:3306' (1)
+[17-May-2015 00:40:59] Connection failed: SQLSTATE[HY000] [2005] Unknown MySQL server host '127.5.91.130:3306' (1)
+[17-May-2015 00:42:45] Connection failed: SQLSTATE[HY000] [2005] Unknown MySQL server host '127.5.91.130:3306' (1)
+[17-May-2015 00:42:46] Connection failed: SQLSTATE[HY000] [2005] Unknown MySQL server host '127.5.91.130:3306' (1)
